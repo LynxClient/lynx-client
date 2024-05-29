@@ -1,1 +1,1 @@
-# lynx-client
+# LynxClient
